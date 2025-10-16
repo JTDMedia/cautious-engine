@@ -43,10 +43,10 @@ local frequest, fsetclipboard = request or http_request or syn_request, setclipb
 local Window =
     WindUI:CreateWindow(
     {
-        Title = "JTD Hub",
+        Title = "ScriptCollection",
         Icon = "house",
         Author = "JustTheDev",
-        Folder = "JTDHub",
+        Folder = "ScriptCollection",
         Acrylic = true,
         HideSearchBar = false
     }
@@ -55,7 +55,7 @@ Window:IsResizable(true)
 WindUI:SetTheme("Dark")
 Window:EditOpenButton(
     {
-        Title = "Open JTD Hub",
+        Title = "ScriptCollection",
         Icon = "ratio",
         CornerRadius = UDim.new(0, 16),
         StrokeThickness = 2,
@@ -73,7 +73,7 @@ Window:DisableTopbarButtons(
 
 Window:Tag(
     {
-        Title = "v1.0",
+        Title = "Made by JTD",
         Color = Color3.fromHex("#30ff6a")
     }
 )
