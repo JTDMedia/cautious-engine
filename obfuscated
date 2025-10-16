@@ -23,7 +23,7 @@
                                                                                                                                                           
 ===================================
 You can load this script with:
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JTDMedia/cautious-engine/refs/heads/main/newload"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JTDMedia/cautious-engine/refs/heads/main/obfuscated"))()
 Discord: https://dsc.gg/dihcord
 
 ]]
