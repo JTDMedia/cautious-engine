@@ -474,9 +474,6 @@ local TabHandles = {
 	Information = Tabs.General:Tab({Title = "Information", Icon = "info"}),
 	Appearance = Tabs.General:Tab({Title = "Appearance", Icon = "brush"}),
 	Generic = Tabs.General:Tab({Title = "Generic Tools", Icon = "tool-case"}),
-	Growagarden = Tabs.Games:Tab({Title = "Grow a Garden", Icon = "land-plot"}),
-	nightsintheforest = Tabs.Games:Tab({Title = "99 Nights In The Forest", Icon = "land-plot"}),
-	RainbowFriends = Tabs.Games:Tab({Title = "Rainbow Friends", Icon = "land-plot"}),
 	BABFT = Tabs.Games:Tab({Title = "Build A Boat For Treasure", Icon = "land-plot"})
 }
 
